@@ -1,0 +1,19 @@
+{
+    "type": "ACTIVITY_TYPE_CREATE_PRIVATE_KEYS_V2",
+    "timestampMs": "<timestampMs>",
+    "organizationId": "<organizationId>",
+    "parameters": {
+        "privateKeys": [
+            {
+                "privateKeyName": "<privateKeyName>",
+                "curve": "CURVE_SECP256K1",
+                "privateKeyTags": [
+                    "<privateKeyTags>"
+                ],
+                "addressFormats": [
+                    "ADDRESS_FORMAT_UNCOMPRESSED"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140063050447",
+    "project_id": "aboutturnkey-6bb41",
+    "storage_bucket": "aboutturnkey-6bb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140063050447:android:b258a4efe936ae559b05ba",
+        "android_client_info": {
+          "package_name": "com.example.turnkeyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuEhX5WRw0A_jgB5mnH4K98d2TG3FPbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
